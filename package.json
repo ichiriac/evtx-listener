@@ -1,0 +1,26 @@
+{
+  "name": "evtx-listener",
+  "version": "1.0.0",
+  "description": "Listen changes on evtx files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ichiriac/evtx-listener.git"
+  },
+  "keywords": [
+    "evtx",
+    "listener",
+    "events",
+    "logs",
+    "windows"
+  ],
+  "author": "Ioan CHIRIAC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ichiriac/evtx-listener/issues"
+  },
+  "homepage": "https://github.com/ichiriac/evtx-listener#readme"
+}
