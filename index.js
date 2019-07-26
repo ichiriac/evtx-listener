@@ -99,7 +99,7 @@ class EvtxListener {
   start() {
     this._reset();
     this._timer = setTimeout(() => {
-      console.log(new Date());
+      // console.log(new Date());
       this._check();
       this.start();
     }, this.interval);
