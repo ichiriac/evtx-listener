@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/ichiriac/evtx-listener/issues"
   },
-  "homepage": "https://github.com/ichiriac/evtx-listener#readme"
+  "homepage": "https://github.com/ichiriac/evtx-listener#readme",
+  "dependencies": {
+    "evtx-parser": "^1.0.0"
+  }
 }
